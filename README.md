@@ -7,3 +7,5 @@ To run this project
 1) Clone this repo
 2) Hit npm install
 3) Run npm run dev
+
+## This app is hosted [live here](https://adopt-anhimals.netlify.app/)
